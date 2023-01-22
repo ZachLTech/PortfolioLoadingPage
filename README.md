@@ -6,6 +6,6 @@
     The page is just 2 files:
     the main index.html & the style.css containing the main animation
 </strong>
-<div align="center"><img src="\assets\cssanimationpreview1.PNG" /></div>
-<div align="center"><img src="\assets\cssanimationpreview2.png" /></div>
+<div align="center"><img src="https://github.com/ZachLTech/PortfolioLoadingPage/blob/main/assets/cssanimationpreview1.PNG" /></div>
+<div align="center"><img src="https://github.com/ZachLTech/PortfolioLoadingPage/blob/main/assets/cssanimationpreview2.PNG" /></div>
 </p>
