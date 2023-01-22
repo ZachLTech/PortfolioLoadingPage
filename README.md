@@ -5,6 +5,8 @@
 <p align="center"><strong>
     The page is just 2 files:
     the main index.html & the style.css containing the main animation
+    <br><br><br> 
+    PREVIEWS: <br>
 </strong>
 <div align="center"><img src="https://github.com/ZachLTech/PortfolioLoadingPage/blob/main/assets/cssanimationpreview1.PNG" /></div>
 <div align="center"><img src="https://github.com/ZachLTech/PortfolioLoadingPage/blob/main/assets/cssanimationpreview2.PNG" /></div>
